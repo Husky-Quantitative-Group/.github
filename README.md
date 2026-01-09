@@ -1,3 +1,0 @@
-# .github
-
-testing org readme
